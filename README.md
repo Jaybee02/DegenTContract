@@ -1,13 +1,19 @@
-# Sample Hardhat Project
+# Creation of ERC20 token and deploying it in Avalanche fuji-testnet
+- The smart contract create new token
+- redeem tokens
+- checking token balance and
+- burning token
+# In this project a DegenToken.Sol is created 
+- here is where all the function of the aforemonetioned is been written
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+# .env
+- Here I set up a private key to my connected network and also my snowtrace network
+# Deploy.js , all function is been executed in the script
 
-Try running some of the following tasks:
+# Hardhat
+- it shows how our network is connected to the right path been set after carefully been set up
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.js
+# At the end , the contract was deployed successfully with a certain gas amount be used for the proper execution.
+
+
 ```
