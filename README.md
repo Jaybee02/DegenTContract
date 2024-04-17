@@ -1,5 +1,5 @@
 ## REVIEWERS!!!!
-Please inside Scripts folder DegenToken.Sol code is there intact
+Please inside Scripts folder DegenToken.Sol code is there intact.
 Please verify
 All other codes, the likes of deploy.js too is there. 
 
@@ -19,6 +19,9 @@ All other codes, the likes of deploy.js too is there.
 - it shows how our network is connected to the right path been set after carefully been set up
 
 # At the end , the contract was deployed successfully with a certain gas amount be used for the proper execution.
+
+
+<img width="957" alt="degen" src="https://github.com/Jaybee02/DegenTContract/assets/82292503/c09edef6-395e-4af6-a7f7-b8ba3d298e4e">
 
 
 
