@@ -1,7 +1,8 @@
 ## REVIEWERS!!!!
-Please inside Scripts folder DegenToken.Sol code is there intact.
-Please verify
-All other codes, the likes of deploy.js too is there. 
+- Please inside Scripts folder DegenToken.Sol code is there intact.
+-bPlease verify
+- All other codes, the likes of deploy.js too is there. 
+- I have also upload the pictures in a new created issue to butrress my claim.
 
 # Creation of ERC20 token and deploying it in Avalanche fuji-testnet
 - The smart contract create new token
