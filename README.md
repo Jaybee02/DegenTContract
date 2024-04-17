@@ -1,3 +1,8 @@
+## REVIEWERS!!!!
+Please inside Scripts folder DegenToken.Sol code is there intact
+Please verify
+All other codes, the likes of deploy.js too is there. 
+
 # Creation of ERC20 token and deploying it in Avalanche fuji-testnet
 - The smart contract create new token
 - redeem tokens
@@ -14,6 +19,9 @@
 - it shows how our network is connected to the right path been set after carefully been set up
 
 # At the end , the contract was deployed successfully with a certain gas amount be used for the proper execution.
+
+
+
 
 
 ```
